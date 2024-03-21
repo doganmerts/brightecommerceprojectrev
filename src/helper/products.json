@@ -1,0 +1,68 @@
+[
+    {
+        "title": "The Witcher 3: Wild Hunt",
+        "about": "An epic open-world RPG set in a dark fantasy universe. Play as Geralt of Rivia, a monster hunter for hire, and embark on a quest to find the Child of Prophecy.",
+        "id": 1,
+        "price": 59,
+        "rate": 5,
+        "image": "https://cdn.vox-cdn.com/thumbor/vbwnyjG-h0wjs7OJYQc9g-rDSCQ=/0x0:1100x619/920x613/filters:focal(462x221:638x397):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/61159435/2_leshen_is_a_very_powerful_monster-hiding_deep_in_the_murky_woods_of_no_man_s_land.0.1487851598.0.jpg"
+    },
+    {
+        "title": "Red Dead Redemption 2",
+        "about": "Set in the late 1800s, this action-adventure game follows outlaw Arthur Morgan and the Van der Linde gang as they navigate the American frontier. Experience a gripping story, stunning visuals, and immersive gameplay.",
+        "id": 2,
+        "price": 49,
+        "rate": 5,
+        "image": "https://www.rdr2mod.com/wp-content/uploads/2019/11/RDR2-Icon.jpg"
+    },
+    {
+        "title": "Cyberpunk 2077",
+        "about": "A futuristic open-world RPG set in the dystopian Night City. Play as V, a mercenary outlaw, and customize your cybernetic enhancements as you navigate a world of corporate greed, crime, and technology gone awry.",
+        "id": 3,
+        "price": 39,
+        "rate": 4,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2020/12/JN/HD/VO/57036556/12-500x500.jpg"
+    },
+    {
+        "title": "Call of Duty: Warzone",
+        "about": "A free-to-play battle royale game set in the Call of Duty universe. Drop into a massive map, scavenge for weapons, and fight to be the last one standing in intense, fast-paced matches.",
+        "id": 4,
+        "price": 0,
+        "rate": 4,
+        "image": "https://avatarfiles.alphacoders.com/277/277936.jpg"
+    },
+    {
+        "title": "Fortnite",
+        "about": "A popular battle royale game where players can build structures and use various weapons and items to outlast their opponents. Explore a vibrant world, team up with friends, and compete to be the last one standing.",
+        "id": 5,
+        "price": 0,
+        "rate": 4,
+        "image": "https://cdn.vox-cdn.com/thumbor/3erj5mrRUin-N_gEGFZeXCEPQ0Y=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/9290167/Fortnite_BR_Key_Art_no_Logo.jpg"
+    },
+    {
+        "title": "Apex Legends",
+        "about": "A fast-paced battle royale game set in the Titanfall universe. Choose from a diverse cast of legends, each with unique abilities, and work together with your squad to become the last team standing.",
+        "id": 6,
+        "price": 0,
+        "rate": 4,
+        "image": "https://cdn.vox-cdn.com/thumbor/R7Bn5DffmpdqYNraquKKJQneYvk=/800x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/22963454/Screenshot_1___Clean.jpg"
+    },
+    {
+        "title": "Among Us",
+        "about": "A multiplayer party game where crewmates must complete tasks aboard a spaceship while trying to identify and eliminate the impostors among them. Can you trust your fellow players?",
+        "id": 7,
+        "price": 0,
+        "rate": 4,
+        "image": "https://cdn.vectorstock.com/i/preview-1x/13/10/main-page-game-among-us-rear-vector-35171310.webp"
+    },
+    {
+        "title": "Minecraft",
+        "about": "A sandbox game where players can explore, build, and create in a blocky world. Mine resources, craft tools, and construct elaborate structures to survive and thrive in endless, procedurally-generated worlds.",
+        "id": 8,
+        "price": 26,
+        "rate": 5,
+        "image": "https://www.goodplayguide.com/wp-content/uploads/2021/05/MineCraft-Pocket-Edition-01-300x300.png"
+    }
+]
+
+
